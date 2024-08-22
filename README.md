@@ -1,2 +1,2 @@
 # freetitan.github.io
-这是测速的三个
+## how to build my github pages?
