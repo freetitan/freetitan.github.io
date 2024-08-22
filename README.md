@@ -1,3 +1,3 @@
 # freetitan.github.io
-## how to build my github pages?
-### good pages
+## 强化学习
+### 贝叶斯统计学
